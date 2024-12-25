@@ -9,10 +9,10 @@ Welcome to the **AtliQ Hardwares Data Analytics Project** repository. This proje
 AtliQ Hardwares operates in diverse markets across the globe, dealing with multiple products, divisions and distributors. However, challenges like inconsistent sales performance, unmet targets, and opaque profitability required in-depth analysis to inform decision-making and strategic planning. This project solves these challenges through two sub-projects:
 
 1. **[Sales Analytics](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Consolidated%20Sales%20Analytics%20Reports%20-%20AtliQ%20Hardwares.pdf)**: Focusing on customer and market performance over three years (2019–2021).
-2. **[Finance Analytics](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Consolidated%20Finance%20Analytics%20Report%20-%20AtliQ%20Hardwares.pdf)**: Breaking down profitability and financial performance using Profit & Loss (P&L) reports for these 3 years. 
+2. **[Finance Analytics](https://github.com/archietk/atliq-sales-analytics-excel/blob/main/Consolidated%20Finance%20Analytics%20Report%20-%20AtliQ%20Hardwares.pdf)**: Breaking down profitability and financial performance using Profit & Loss (P&L) reports for these 3 years. 
 
 
-**NOTE:** AtliQ Hardwares follows a fiscal cycle that runs from September through August.
+**NOTE:** AtliQ Hardwares follows a fiscal cycle from September through August.
 
 
 ---
@@ -43,7 +43,7 @@ Through this analysis, AtliQ Hardwares can:
 ## Finance Analytics: Building Comprehensive Profitability Insights
 
 ### **Project Objective**
-1. Create detailed **[Profit & Loss Statements by Fiscal Year](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Fiscal%20Year.pdf)**, **[Month](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Fiscal%20Month.pdf)**, **[Market](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Markets.pdf)**, and **[Zone](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Quarterly%20GM%20by%20Sub%20Zones.pdf)**.
+1. Create detailed **[Profit & Loss Statements by Fiscal Year](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Fiscal%20Year.pdf)**, **[Month](https://github.com/archietk/atliq-sales-analytics-excel/blob/main/P%26L%20Report%20by%20Fiscal%20Month.pdf)**, **[Market](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Markets.pdf)**, and **[Zone](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Quarterly%20GM%20by%20Sub%20Zones.pdf)**.
 2. Derive key profitability metrics, including **Gross Margin** and **Gross Margin %**.
 
 ### **Insights Unlocked**
@@ -78,12 +78,12 @@ P&L reports serve as a cornerstone for:
 
 
 ### Finance Analytics
-- **[Consolidated Finance Analytics PDF](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Consolidated%20Finance%20Analytics%20Report%20-%20AtliQ%20Hardwares.pdf)** (Overview of all finance-related reports)
+- **[Consolidated Finance Analytics PDF]()** (Overview of all finance-related reports)
 <details>
   <summary>Detailed Reports</summary>
   
   - **[P&L by Fiscal Year](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Fiscal%20Year.pdf)**
-  - **[P&L by Fiscal Month](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Fiscal%20Month.pdf)**
+  - **[P&L by Fiscal Month](https://github.com/archietk/atliq-sales-analytics-excel/blob/main/P%26L%20Report%20by%20Fiscal%20Month.pdf)**
   - **[P&L by Market](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Markets.pdf)**
   - **[P&L by Zone](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Quarterly%20GM%20by%20Sub%20Zones.pdf)**
 
