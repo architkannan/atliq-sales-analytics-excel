@@ -65,24 +65,30 @@ P&L reports serve as a cornerstone for:
 - **[Consolidated Sales Analytics PDF](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Consolidated%20Sales%20Analytics%20Reports%20-%20AtliQ%20Hardwares.pdf)** (Overview of all sales-related reports)
 <details>
   <summary>Detailed Reports</summary>
-  - [Customer Performance Report](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Customer%20Performance.pdf)
-  - [Market Performance Report](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Market%20Performance%20vs%20Target.pdf)
-  - [Top 10 Products by Net Sales Growth](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Top%2010%20Products%20by%20Growth.pdf)
-  - [Division Report (Net Sales Growth)](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Division%20Performance.pdf)
-  - [Top 5 and Bottom 5 Products by Quantity Sold](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Top%20Bottom%20Product%20by%20Quantity.pdf)
-  - [New Products Introduced in 2021](https://github.com/archietk/SalesAnalyticsExcel/blob/main/New%20Products%20Sold%20in%202021.pdf)
-  - [Top 5 Countries by Net Sales in 2021](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Top%205%20Countries%20Sales%202021.pdf)
+  
+  - **[Customer Performance Report](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Customer%20Performance.pdf)**
+  - **[Market Performance Report](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Market%20Performance%20vs%20Target.pdf)**
+  - **[Top 10 Products by Net Sales Growth](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Top%2010%20Products%20by%20Growth.pdf)**
+  - **[Division Report (Net Sales Growth)](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Division%20Performance.pdf)**
+  - **[Top 5 and Bottom 5 Products by Quantity Sold](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Top%20Bottom%20Product%20by%20Quantity.pdf)**
+  - **[New Products Introduced in 2021](https://github.com/archietk/SalesAnalyticsExcel/blob/main/New%20Products%20Sold%20in%202021.pdf)**
+  - **[Top 5 Countries by Net Sales in 2021](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Top%205%20Countries%20Sales%202021.pdf)**
+
 </details>
+
 
 ### Finance Analytics
 - **[Consolidated Finance Analytics PDF](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Consolidated%20Finance%20Analytics%20Report%20-%20AtliQ%20Hardwares.pdf)** (Overview of all finance-related reports)
 <details>
   <summary>Detailed Reports</summary>
-  - [P&L by Fiscal Year](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Fiscal%20Year.pdf)
-  - [P&L by Fiscal Month](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Fiscal%20Month.pdf)
-  - [P&L by Market](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Markets.pdf)
-  - [P&L by Zone](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Quarterly%20GM%20by%20Sub%20Zones.pdf)
+  
+  - **[P&L by Fiscal Year](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Fiscal%20Year.pdf)**
+  - **[P&L by Fiscal Month](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Fiscal%20Month.pdf)**
+  - **[P&L by Market](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Markets.pdf)**
+  - **[P&L by Zone](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Quarterly%20GM%20by%20Sub%20Zones.pdf)**
+
 </details>
+
 
 ---
 
@@ -111,4 +117,4 @@ This project demonstrates my ability to:
 3. **Solve business problems** by aligning data analysis with organizational goals.
 
 ### **Contact**
-If you’d like to discuss this project or collaborate, feel free to reach out to me via [LinkedIn](#) or [email](#).
+If you’d like to discuss this project or collaborate, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/archietk/) or [email](archietk@zohomail.in).
