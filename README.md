@@ -121,6 +121,11 @@ P&L reports serve as a cornerstone for:
 
 ---
 
+## Acknowledgements
+[Codebasics](https://codebasics.io/)
+
+---
+
 ## Conclusion
 
 This project demonstrates my ability to:
