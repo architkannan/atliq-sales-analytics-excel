@@ -63,6 +63,9 @@ P&L reports serve as a cornerstone for:
 
 ### Sales Analytics
 - **[Consolidated Sales Analytics PDF](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Consolidated%20Sales%20Analytics%20Reports%20-%20AtliQ%20Hardwares.pdf)** (Overview of all sales-related reports)
+
+<img src="https://github.com/archietk/atliq-sales-analytics-excel/blob/main/ConsolSalesAtliQ.gif?raw=true" width="400" height="auto" />
+  
 <details>
   <summary>Detailed Reports</summary>
   
@@ -79,6 +82,9 @@ P&L reports serve as a cornerstone for:
 
 ### Finance Analytics
 - **[Consolidated Finance Analytics PDF](https://github.com/archietk/atliq-sales-analytics-excel/blob/main/Consolidated%20Finance%20Analytics%20Report%20-%20AtliQ%20Hardwares.pdf)** (Overview of all finance-related reports)
+
+<img src="https://github.com/archietk/atliq-sales-analytics-excel/blob/main/ConsolFinAtliQ.gif?raw=true" width="400" height="auto" />
+  
 <details>
   <summary>Detailed Reports</summary>
   
