@@ -78,7 +78,7 @@ P&L reports serve as a cornerstone for:
 
 
 ### Finance Analytics
-- **[Consolidated Finance Analytics PDF]()** (Overview of all finance-related reports)
+- **[Consolidated Finance Analytics PDF](https://github.com/archietk/atliq-sales-analytics-excel/blob/main/Consolidated%20Finance%20Analytics%20Report%20-%20AtliQ%20Hardwares.pdf)** (Overview of all finance-related reports)
 <details>
   <summary>Detailed Reports</summary>
   
