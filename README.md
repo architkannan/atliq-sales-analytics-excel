@@ -17,6 +17,12 @@ AtliQ Hardwares operates in diverse markets across the globe, dealing with multi
 
 ---
 
+## Data Sources
+
+The data modeling for this project is based upon four mock datasets, curated by Codebasics, consisting of Customer, Product, Market, and Monthly Sales data.
+
+---
+
 ## Sales Analytics: Understanding Performance and Trends
 
 ### **Project Objective**
