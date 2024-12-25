@@ -117,4 +117,4 @@ This project demonstrates my ability to:
 3. **Solve business problems** by aligning data analysis with organizational goals.
 
 ### **Contact**
-If you’d like to discuss this project or collaborate, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/archietk/) or [email](archietk@zohomail.in).
+If you’d like to discuss this project or collaborate, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/archietk/) or [email](mailto:archietk@zohomail.in).
