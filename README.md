@@ -43,9 +43,8 @@ Through this analysis, AtliQ Hardwares can:
 ## Finance Analytics: Building Comprehensive Profitability Insights
 
 ### **Project Objective**
-1. Create detailed **[Profit & Loss Statements by Fiscal Year](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Fiscal%20Year.pdf)**, **[Month](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Fiscal%20Month.pdf)**, **[Market](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Markets.pdf)**, and **Zone(https://github.com/archietk/SalesAnalyticsExcel/blob/main/Quarterly%20GM%20by%20Sub%20Zones.pdf)**.
-2. Analyze **Cost of Goods Sold (COGS)** using freight and manufacturing costs.
-3. Derive key profitability metrics, including **Gross Margin** and **Gross Margin %**.
+1. Create detailed **[Profit & Loss Statements by Fiscal Year](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Fiscal%20Year.pdf)**, **[Month](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Fiscal%20Month.pdf)**, **[Market](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Markets.pdf)**, and **[Zone](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Quarterly%20GM%20by%20Sub%20Zones.pdf)**.
+2. Derive key profitability metrics, including **Gross Margin** and **Gross Margin %**.
 
 ### **Insights Unlocked**
 - **Benchmarking**: Compare profitability across years, months, and markets.
