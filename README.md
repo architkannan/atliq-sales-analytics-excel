@@ -1,12 +1,12 @@
 # Data-Driven Insights with Microsoft Excel: AtliQ Hardwares Analytics Project
 
-Welcome to the **AtliQ Hardwares Data Analytics Project** repository. This project presents two cornerstone reports of data-driven decision-making: **Sales Analytics** and **Finance Analytics**. By leveraging the advanced functionalities of **Microsoft Excel**—including Power Query, Power Pivot, and DAX—this analysis uncovers actionable insights to drive performance improvements, streamline operations, and empower strategic decisions for AtliQ Hardwares, a fictional global hardware manufacturer.
+Welcome to the **AtliQ Hardwares Data Analytics Project** repository. This project presents two cornerstone reports of data-driven decision-making: **Sales Analytics** and **Finance Analytics**. By leveraging the advanced functionalities of **Microsoft Excel**—including Power Query, Power Pivot, and DAX—this analysis uncovers actionable insights to drive performance improvements, streamline operations, and empower strategic decisions for AtliQ Hardwares, a fictional global hardware distributor.
 
 ---
 
 ## Overview
 
-AtliQ Hardwares operates in diverse markets across the globe, dealing with multiple products, divisions and distributors. However, challenges like inconsistent sales performance, unmet targets, and opaque profitability required in-depth analysis to inform decision-making and strategic planning. This project solves these challenges through two sub-projects:
+AtliQ Hardwares operates in diverse global markets, with multiple products, divisions, and distributors. However, challenges like inconsistent sales performance, unmet targets, and opaque profitability required in-depth analysis to inform decision-making and strategic planning. This project solves these challenges through two sub-projects:
 
 1. **[Sales Analytics](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Consolidated%20Sales%20Analytics%20Reports%20-%20AtliQ%20Hardwares.pdf)**: Focusing on customer and market performance over three years (2019–2021).
 2. **[Finance Analytics](https://github.com/archietk/atliq-sales-analytics-excel/blob/main/Consolidated%20Finance%20Analytics%20Report%20-%20AtliQ%20Hardwares.pdf)**: Breaking down profitability and financial performance using Profit & Loss (P&L) reports for these 3 years. 
