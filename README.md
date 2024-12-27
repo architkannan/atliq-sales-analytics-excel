@@ -1,6 +1,6 @@
 # Data-Driven Insights with Microsoft Excel: AtliQ Hardwares Analytics Project
 
-Welcome to the **AtliQ Hardwares Data Analytics Project** repository. This project presents two cornerstone reports of data-driven decision-making: **Sales Analytics** and **Finance Analytics**. By leveraging the advanced functionalities of **Microsoft Excel**—including Power Query, Power Pivot, and DAX—this analysis uncovers actionable insights to drive performance improvements, streamline operations, and empower strategic decisions for AtliQ Hardwares, a fictional global hardware distributor.
+Welcome to the **AtliQ Hardwares Data Analytics Project** repository. This project presents two cornerstone reports of data-driven decision-making: **Sales Analytics** and **Finance Analytics**. By leveraging the advanced functionalities of **Microsoft Excel**—including Power Query, Power Pivot, and DAX—this analysis uncovers actionable insights to drive performance improvements, streamline operations, and empower strategic decisions for AtliQ Hardwares, a fictional global hardware manufacturer.
 
 ---
 
