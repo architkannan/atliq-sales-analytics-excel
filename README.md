@@ -30,6 +30,13 @@ The data modeling for this project is based upon four mock datasets, curated by 
 2. Generate a **[Market Performance Report](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Market%20Performance%20vs%20Target.pdf)** for all operating countries.
 3. Leverage visualizations to compare 2021 actual sales against targets.
 
+### **North Star Metrics**
+*   **Net Sales Growth (Year-over-Year):** This metric measures the overall growth of sales revenue from one year to the next across products, divisions, and markets. It is a critical indicator of AtliQ Hardwares' ability to expand its customer base and increase revenue.
+*   **Sales Targets vs Actual Sales:** To measure how efficient the company's sales were compared to business targets.
+*   **Top 5 Performing Markets by Net Sales:** This metric identifies the markets that are contributing the most to revenue. This helps inform marketing and expansion strategies.
+*   **Customer Performance:** Analysis of customer performance metrics, based on volume of sales can lead to better resource allocation to those customers.
+*   **Top 5 & Bottom 5 Products by Volume of Sales:** Identifying top and bottom-performing products by quantity is crucial to making strategic decisions about product focus, marketing, and inventory management.
+
 ### **Questions Answered**
 The analysis addresses critical business questions such as:
 - **[Top-performing products](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Top%2010%20Products%20by%20Growth.pdf)**: Which 10 products saw the highest net sales growth from 2020 to 2021?
@@ -38,11 +45,6 @@ The analysis addresses critical business questions such as:
 - **[New product launches](https://github.com/archietk/SalesAnalyticsExcel/blob/main/New%20Products%20Sold%20in%202021.pdf)**: What products were introduced in 2021?
 - **[Market leaders](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Top%205%20Countries%20Sales%202021.pdf)**: Which 5 countries achieved the highest net sales in 2021?
 
-### **Insights**
-Through this analysis, AtliQ Hardwares can:
-- Identify opportunities for improving customer engagement.
-- Strategically expand operations in high-performing markets.
-- Optimize inventory planning and product launches.
 
 ---
 
@@ -52,16 +54,18 @@ Through this analysis, AtliQ Hardwares can:
 1. Create detailed **[Profit & Loss Statements by Fiscal Year](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Fiscal%20Year.pdf)**, **[Month](https://github.com/archietk/atliq-sales-analytics-excel/blob/main/P%26L%20Report%20by%20Fiscal%20Month.pdf)**, **[Market](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Markets.pdf)**, and **[Zone](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Quarterly%20GM%20by%20Sub%20Zones.pdf)**.
 2. Derive key profitability metrics, including **Gross Margin** and **Gross Margin %**.
 
-### **Insights Unlocked**
-- **Benchmarking**: Compare profitability across years, months, and markets.
-- **Strategic alignment**: Align financial goals with broader organizational strategies.
-- **Stakeholder communication**: Facilitate transparent financial reporting.
+### **North Star Metrics**
+*   **Cost of Goods Sold (COGS) per Unit**: Analyzing the cost incurred to manufacture one unit of a product can drive greater operational efficiency and profitability.
+*   **Gross Profit Margin:** This metric measures the profitability of AtliQ's core operations after accounting for the cost of goods sold. A higher gross profit margin indicates efficient production and pricing strategies.
+*   **Profit & Loss (P&L) by Month and Year:** Tracking the company’s P&L on a monthly and yearly basis enables the identification of key trends and anomalies in financial performance.
+*   **Profit & Loss (P&L) by Market and Zone:** These P&L reports for different markets/ zones will reveal profitability performance for each region.
 
 ### **Role of Reports**
 P&L reports serve as a cornerstone for:
 - Supporting informed decision-making.
 - Building confidence in the financial health of the business.
 - Forecasting and budgeting with precision.
+- Performance comparison across years and regions to identify growth opportunities and cost inefficiencies.
 
 ---
 
