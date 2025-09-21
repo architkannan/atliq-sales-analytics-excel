@@ -1,6 +1,6 @@
 # Data-Driven Insights with Microsoft Excel: AtliQ Hardwares Analytics Project
 
-The **AtliQ Hardwares Data Analytics Project** presents two cornerstone reports of data-driven decision-making: **Sales Analytics** and **Finance Analytics**. By utilizing advanced functionalities of **Microsoft Excel** — such as Power Query, Power Pivot, and DAX - this analysis uncovers insights to guide performance improvements, streamline operations, and enable strategic decisions for AtliQ Hardwares, a fictional global hardware manufacturer.
+The **AtliQ Hardwares Data Analytics Project** presents two cornerstone reports of data-driven decision-making: **Sales Analytics** and **Finance Analytics**. By utilizing advanced functionalities of **Microsoft Excel** - such as Power Query, Power Pivot, and DAX - this analysis uncovers insights to guide performance improvements, streamline operations, and enable strategic decisions for AtliQ Hardwares, a fictional global hardware manufacturer.
 
 ---
 
@@ -12,7 +12,7 @@ However, challenges like inconsistent sales performance, unmet targets, and opaq
 
 This project solves these challenges through two sub-projects:
 
-1. **[Sales Analytics](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Consolidated%20Sales%20Analytics%20Reports%20-%20AtliQ%20Hardwares.pdf)**: Focusing on customer and market performance over three years (2019–2021).
+1. **[Sales Analytics](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Consolidated%20Sales%20Analytics%20Reports%20-%20AtliQ%20Hardwares.pdf)**: Focusing on customer and market performance over three years (2019 - 2021).
 2. **[Finance Analytics](https://github.com/archietk/atliq-sales-analytics-excel/blob/main/Consolidated%20Finance%20Analytics%20Report%20-%20AtliQ%20Hardwares.pdf)**: Breaking down profitability and financial performance using Profit & Loss (P&L) reports for these 3 years. 
 
 
