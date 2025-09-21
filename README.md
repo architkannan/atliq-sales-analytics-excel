@@ -1,25 +1,34 @@
 # Data-Driven Insights with Microsoft Excel: AtliQ Hardwares Analytics Project
 
-Welcome to the **AtliQ Hardwares Data Analytics Project** repository. This project presents two cornerstone reports of data-driven decision-making: **Sales Analytics** and **Finance Analytics**. By leveraging the advanced functionalities of **Microsoft Excel**—including Power Query, Power Pivot, and DAX—this analysis uncovers actionable insights to drive performance improvements, streamline operations, and empower strategic decisions for AtliQ Hardwares, a fictional global hardware manufacturer.
+The **AtliQ Hardwares Data Analytics Project** presents two cornerstone reports of data-driven decision-making: **Sales Analytics** and **Finance Analytics**. By utilizing advanced functionalities of **Microsoft Excel** — such as Power Query, Power Pivot, and DAX - this analysis uncovers insights to guide performance improvements, streamline operations, and enable strategic decisions for AtliQ Hardwares, a fictional global hardware manufacturer.
 
 ---
 
 ## Overview
 
-AtliQ Hardwares operates in diverse global markets, with multiple products, divisions, and distributors. However, challenges like inconsistent sales performance, unmet targets, and opaque profitability required in-depth analysis to inform decision-making and strategic planning. This project solves these challenges through two sub-projects:
+AtliQ Hardwares operates in diverse global markets, with multiple products, divisions, and distributors. 
+
+However, challenges like inconsistent sales performance, unmet targets, and opaque profitability require in-depth analysis to inform decision-making and strategic planning. 
+
+This project solves these challenges through two sub-projects:
 
 1. **[Sales Analytics](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Consolidated%20Sales%20Analytics%20Reports%20-%20AtliQ%20Hardwares.pdf)**: Focusing on customer and market performance over three years (2019–2021).
 2. **[Finance Analytics](https://github.com/archietk/atliq-sales-analytics-excel/blob/main/Consolidated%20Finance%20Analytics%20Report%20-%20AtliQ%20Hardwares.pdf)**: Breaking down profitability and financial performance using Profit & Loss (P&L) reports for these 3 years. 
 
 
-**NOTE:** AtliQ Hardwares follows a fiscal cycle from September through August.
+**NOTE:** AtliQ Hardwares follows a fiscal cycle from September through August (Sep - Aug).
 
 
 ---
 
 ## Data Sources
 
-The data modeling for this project is based upon four mock datasets, curated by Codebasics, consisting of Customer, Product, Market, and Monthly Sales data.
+The data modeling for this project is based upon four mock datasets, curated by Codebasics, consisting of: 
+
+➡️ Customer
+➡️ Product
+➡️ Market
+➡️ Monthly Sales data
 
 ---
 
@@ -28,7 +37,7 @@ The data modeling for this project is based upon four mock datasets, curated by 
 ### **Project Objective**
 1. Create a **[Customer Performance Report](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Customer%20Performance.pdf)** for global distributors.
 2. Generate a **[Market Performance Report](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Market%20Performance%20vs%20Target.pdf)** for all operating countries.
-3. Leverage visualizations to compare 2021 actual sales against targets.
+3. Create intuitive visualizations to compare 2021 actual sales against targets.
 
 ### **North Star Metrics**
 *   **Net Sales Growth (Year-over-Year):** This metric measures the overall growth of sales revenue from one year to the next across products, divisions, and markets. It is a critical indicator of AtliQ Hardwares' ability to expand its customer base and increase revenue.
