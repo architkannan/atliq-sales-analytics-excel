@@ -4,6 +4,14 @@ The **AtliQ Hardwares Data Analytics Project** presents two cornerstone reports 
 
 ---
 
+## 💡 How to Explore this Project
+
+Scroll through this README and click on any of the links that interest you — the links will take you to a relevant PDF report for deeper exploration.
+
+If you’d prefer to skip ahead and see a snapshot of the reports directly, jump down to the **Reports** section below.
+
+---
+
 ## Overview
 
 AtliQ Hardwares operates in diverse global markets, with multiple products, divisions, and distributors. 
