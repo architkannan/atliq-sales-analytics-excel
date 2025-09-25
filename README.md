@@ -1,6 +1,13 @@
 # Data-Driven Insights with Microsoft Excel: AtliQ Hardwares Analytics Project
 
-The **AtliQ Hardwares Data Analytics Project** presents two cornerstone reports of data-driven decision-making: **Sales Analytics** and **Finance Analytics**. By utilizing advanced functionalities of **Microsoft Excel** - such as Power Query, Power Pivot, and DAX - this analysis uncovers insights to guide performance improvements, streamline operations, and enable strategic decisions for AtliQ Hardwares, a fictional global hardware manufacturer.
+***A deep dive into sales and finance analytics to uncover trends, drive performance, and support strategic decisions using advanced Excel techniques: Power Query, Power Pivot, and DAX.***
+
+
+### ❗The Problem
+- AtliQ Hardwares faced inconsistent sales performance and opaque profitability across products, divisions, and markets.
+- Fragmented data and a lack of consolidated insights hindered decision-making.
+- There was a need to track key KPIs for sales and finance to guide operational improvements and strategic planning.
+
 
 ---
 
@@ -10,9 +17,11 @@ Scroll through this README and click on any of the links that interest you — t
 
 If you’d prefer to skip ahead and see a snapshot of the reports directly, jump down to the **Reports** section below.
 
+
 ---
 
-## Overview
+
+##  📝 Overview
 
 AtliQ Hardwares operates in diverse global markets, with multiple products, divisions, and distributors. 
 
@@ -29,7 +38,7 @@ This project solves these challenges through two sub-projects:
 
 ---
 
-## Data Sources
+## 🔢 Data Sources
 
 The data modeling for this project is based upon four mock datasets, curated by Codebasics, consisting of: 
 
@@ -42,19 +51,26 @@ The data modeling for this project is based upon four mock datasets, curated by 
 
 ## Sales Analytics: Understanding Performance and Trends
 
-### **Project Objective**
-1. Create a **[Customer Performance Report](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Customer%20Performance.pdf)** for global distributors.
-2. Generate a **[Market Performance Report](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Market%20Performance%20vs%20Target.pdf)** for all operating countries.
-3. Create intuitive visualizations to compare 2021 actual sales against targets.
+### ✅ Solution
+- Built a **[Customer Performance Report](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Customer%20Performance.pdf)** for global distributors and a **[Market Performance Report](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Market%20Performance%20vs%20Target.pdf)** for all operating countries.  
+- Created intuitive visualizations in Excel to compare 2021 actual sales against targets.  
+- Used **Power Query** for data preparation, **Power Pivot** for modeling, and **DAX** for calculated metrics (e.g., target differentials and % achievement).  
 
-### **North Star Metrics**
-*   **Net Sales Growth (Year-over-Year):** This metric measures the overall growth of sales revenue from one year to the next across products, divisions, and markets. It is a critical indicator of AtliQ Hardwares' ability to expand its customer base and increase revenue.
-*   **Sales Targets vs Actual Sales:** To measure how efficient the company's sales were compared to business targets.
-*   **Top 5 Performing Markets by Net Sales:** This metric identifies the markets that are contributing the most to revenue. This helps inform marketing and expansion strategies.
-*   **Customer Performance:** Analysis of customer performance metrics, based on volume of sales can lead to better resource allocation to those customers.
-*   **Top 5 & Bottom 5 Products by Volume of Sales:** Identifying top and bottom-performing products by quantity is crucial to making strategic decisions about product focus, marketing, and inventory management.
+### 🌟 Impact
+- Enabled easy identification of **top- and bottom-performing products and markets**.  
+- Allowed monitoring of **customer and division performance trends** over 2019–2021.  
+- Improved visibility into sales targets vs actual performance, supporting **data-driven decision-making**.  
 
-### **Questions Answered**
+
+### 📊 Key Metrics
+- **Net Sales Growth (Year-over-Year)** Measures overall sales revenue growth across products, divisions, and markets.  
+- **Sales Targets vs Actual Sales:** Tracks efficiency of achieving business targets.  
+- **Top 5 Performing Markets by Net Sales:** Identifies markets contributing most to revenue.  
+- **Customer Performance:** Highlights customers driving the highest sales volumes for better resource allocation.  
+- **Top 5 & Bottom 5 Products by Volume of Sales:** Guides product focus, marketing, and inventory management.  
+
+
+### ❓ Questions Answered
 The analysis addresses critical business questions such as:
 - **[Top-performing products](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Top%2010%20Products%20by%20Growth.pdf)**: Which 10 products saw the highest net sales growth from 2020 to 2021?
 - **[Division trends](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Division%20Performance.pdf)**: What are the growth trends across business divisions for 2020 and 2021?
@@ -67,22 +83,30 @@ The analysis addresses critical business questions such as:
 
 ## Finance Analytics: Building Comprehensive Profitability Insights
 
-### **Project Objective**
-1. Create detailed **[Profit & Loss Statements by Fiscal Year](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Fiscal%20Year.pdf)**, **[Month](https://github.com/archietk/atliq-sales-analytics-excel/blob/main/P%26L%20Report%20by%20Fiscal%20Month.pdf)**, **[Market](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Markets.pdf)**, and **[Zone](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Quarterly%20GM%20by%20Sub%20Zones.pdf)**.
-2. Derive key profitability metrics, including **Gross Margin** and **Gross Margin %**.
+### ✅ Solution
+- Create detailed **[Profit & Loss Statements by Fiscal Year](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Fiscal%20Year.pdf)**, **[Month](https://github.com/archietk/atliq-sales-analytics-excel/blob/main/P%26L%20Report%20by%20Fiscal%20Month.pdf)**, **[Market](https://github.com/archietk/SalesAnalyticsExcel/blob/main/P%26L%20Report%20by%20Markets.pdf)**, and **[Zone](https://github.com/archietk/SalesAnalyticsExcel/blob/main/Quarterly%20GM%20by%20Sub%20Zones.pdf)**.  
+- Derived key profitability metrics such as **Gross Margin**, **Gross Margin %**, and **COGS per unit**.  
+- Built **dynamic Excel dashboards** using Power Pivot and DAX to monitor financial performance across regions and time periods.  
 
-### **North Star Metrics**
-*   **Cost of Goods Sold (COGS) per Unit**: Analyzing the cost incurred to manufacture one unit of a product can drive greater operational efficiency and profitability.
-*   **Gross Profit Margin:** This metric measures the profitability of AtliQ's core operations after accounting for the cost of goods sold. A higher gross profit margin indicates efficient production and pricing strategies.
-*   **Profit & Loss (P&L) by Month and Year:** Tracking the company’s P&L on a monthly and yearly basis enables the identification of key trends and anomalies in financial performance.
-*   **Profit & Loss (P&L) by Market and Zone:** These P&L reports for different markets/ zones will reveal profitability performance for each region.
 
-### **Role of Reports**
-P&L reports serve as a cornerstone for:
-- Supporting informed decision-making.
-- Building confidence in the financial health of the business.
-- Forecasting and budgeting with precision.
-- Performance comparison across years and regions to identify growth opportunities and cost inefficiencies.
+### 🌟 Impact
+- Improved visibility into **profitability by product, division, market, and zone**.  
+- Supported **forecasting, budgeting, and operational efficiency improvements**.  
+- Enabled comparison of financial performance across years and regions, helping identify **growth opportunities and cost inefficiencies**.  
+
+
+### 📊 Key Metrics
+*   **Cost of Goods Sold (COGS) per Unit**: Evaluates cost efficiency per product.  
+*   **Gross Profit Margin:** Measures profitability of core operations after accounting for COGS.  
+*   **Profit & Loss (P&L) by Month and Year:** Identifies key trends and anomalies in financial performance.  
+*   **Profit & Loss (P&L) by Market and Zone:** Reveals profitability performance for each region.  
+
+### 📝 Role of Reports
+- Provide actionable insights for **informed decision-making**.  
+- Build confidence in the financial health of the business.  
+- Support precise **forecasting and budgeting**.  
+- Allow **performance comparison** across years and regions to spot growth opportunities and cost inefficiencies.  
+
 
 ---
 
@@ -155,4 +179,4 @@ This project demonstrates my ability to:
 3. **Solve business problems** by aligning data analysis with organizational goals.
 
 ### **Contact**
-If you’d like to discuss this project or collaborate, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/archietk/) or [email](mailto:archietk@zohomail.in).
+If you’d like to discuss this project or collaborate, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/architkannan/) or [email](mailto:architkannan@zohomail.in).
