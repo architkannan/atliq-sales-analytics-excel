@@ -13,10 +13,9 @@
 
 ## 💡 How to Explore this Project
 
-- Review the Jupyter Notebook file sequentially to follow the analytical flow.  
-- Key insights are supported directly by code outputs and summary statistics.  
-- Data cleaning and validation steps are explained inline before analysis.  
-- The notebook is intended for **reading and understanding**, not deployment.  
+Scroll through this README and click on any of the links that interest you — the links will take you to a relevant PDF report for deeper exploration.
+
+If you’d prefer to skip ahead and see a snapshot of the reports directly, jump down to the **Reports** section below. 
 
 ---
 
